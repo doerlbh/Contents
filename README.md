@@ -27,6 +27,7 @@
   
 * Indie  
   - Rika_Model `(original)`
+  - nextflu `(modify)` (from blab, investigate how it work)
 
 ### Engineering:
 * 3DPrint
