@@ -22,7 +22,7 @@
   - Influenza_Model `(original)`
   - Ebola_Model `(original)`
   
-* BGI (https://www.genomics.cn)
+* BGI (http://www.genomics.cn)
   - stat
   
 * Indie  
@@ -44,6 +44,7 @@
 * GitHub - gotgithub `(forked)`
 * R - bgiR `(forked)`
 * Rosetta - rosetta_clone_tools `(forked)`
+* TED - TED视频 `(forked)`
 
 ### Life:
 * ElseBand `(original)` [FB_page](https://www.facebook.com/elseband) [Youtube](www.youtube.com/user/elsemusicband)
@@ -54,7 +55,8 @@
 
 ### Contact:
 Baihan Lin  
-`(Work)` doerlbh@gmail.com `(Edu)`  sunnylin@uw.edu
+*Emails:* `(Work)` doerlbh@gmail.com `(Edu)`  sunnylin@uw.edu
+*Skills:* Java, MATLAB, Perl, C/C++, R, Mathematica
 
 
 
