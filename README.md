@@ -55,7 +55,7 @@
 
 ### Contact:
 Baihan Lin  
-*Emails:* `(Work)` doerlbh@gmail.com `(Edu)`  sunnylin@uw.edu
+*Emails:* `(Work)` doerlbh@gmail.com `(Edu)`  sunnylin@uw.edu   
 *Skills:* Java, MATLAB, Perl, C/C++, R, Mathematica
 
 
