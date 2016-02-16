@@ -69,7 +69,7 @@ Baihan Lin
             `(Edu)`  sunnylin@uw.edu   
 *Skills:*   `(Proficient)` Java, MATLAB   
             `(Familiar)`   Perl, C/C++, R, terminal cmd  
-            `(Learning)`   Mathematica, Python, HTML  
+             `(Learning)`   Mathematica, Python, HTML  
 *Environment:*  Windows, Apple OS, Linux
 
 
