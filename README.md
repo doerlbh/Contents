@@ -32,17 +32,17 @@
   
 * Indie  
   - Rika_Model `(original)` `-MATLAB-`
-  - nextflu `(modify)` (from blab, investigate how it work)
+  - nextflu `(modify)` `-Python-` (from blab, investigate how it work)
   
 * Old  
   - Hospital_Management `(original)` `-C-`
 
 ### Engineering:
 * 3DPrint
-  - BigBlue3DPrinter `(modify)` (from Marlin Firmware, modified to fit UW Big Blue)
-  - Octoprint `(modify)` (from fossel, modified to enable wifi printing in UW Big Blue)
-  - Smoothieware `(modify)` (from Smoothieware, modified to fit UW Big Blue)
-  - MarlinForKilo `(modify)` (from pomeroyb, to learn which parameters to change)
+  - BigBlue3DPrinter `(modify)` `-C-` (from Marlin Firmware, modified to fit UW Big Blue)
+  - Octoprint `(modify)` `-JavaScript-` (from fossel, modified to enable wifi printing in UW Big Blue)
+  - Smoothieware `(modify)` `-C++-` (from Smoothieware, modified to fit UW Big Blue)
+  - MarlinForKilo `(modify)` `-C-` (from pomeroyb, to learn which parameters to change)
 
 ### Idea: 
 * Roadmap `(original)`  
@@ -65,8 +65,12 @@
 ### Contact:
 ![](https://dwa5x7aod66zk.cloudfront.net/assets/labtocat-0bb6a395e2d142d0713e3e34bff9f446.png)  
 Baihan Lin  
-*Emails:* `(Work)` doerlbh@gmail.com `(Edu)`  sunnylin@uw.edu   
-*Skills:* Java, MATLAB, Perl, C/C++, R, Mathematica, terminal cmd
+*Emails:*   `(Work)` doerlbh@gmail.com   
+            `(Edu)`  sunnylin@uw.edu   
+*Skills:*   `(Proficient)` Java, MATLAB   
+            `(Familiar)`   Perl, C/C++, R, terminal cmd  
+            `(Learning)`   Mathematica, Python, HTML  
+*Environment:*  Windows, Apple OS, Linux
 
 
 
