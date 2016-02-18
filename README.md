@@ -33,6 +33,7 @@
 * Indie  
   - Rika_Model `(original)` `-MATLAB-`
   - nextflu `(modify)` `-Python-` (from blab, investigate how it work)
+  - Redo_NuRsE `(modify)` `-MATLAB-` (from jianxigao, learn the methodology)
   
 * Old  
   - Hospital_Management `(original)` `-C-`
