@@ -32,6 +32,8 @@
   
 * Indie  
   - Rika_Model `(original)` `-MATLAB-`
+  - Chemical_Oscillation `(original)` `-MATLAB-`
+  - Network_Analysis `(original)` `-MATLAB / R / Cytoscape-`
   - nextflu `(modify)` `-Python-` (from blab, investigate how it work)
   - Redo_NuRsE `(modify)` `-MATLAB-` (from jianxigao, learn the methodology)
   
