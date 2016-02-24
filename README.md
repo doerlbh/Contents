@@ -60,7 +60,7 @@
 
 ### Life:
 * ElseBand `(original)` [FB_page](https://www.facebook.com/elseband) [Youtube](www.youtube.com/user/elsemusicband)
-* doerlbh.github.io `(original)`  
+* doerlbh.github.io `(original)`  `-HTML / JavaScript / CSS-`
 * Life-Time-Tracker `(clone)` (forked from zhangmhao)
 
 ***
@@ -72,7 +72,7 @@ Baihan Lin
             `(Edu)`  sunnylin@uw.edu   
 *Skills:*   `(Proficient)` Java, MATLAB   
             `(Familiar)`   Perl, C/C++, R, terminal cmd  
-             `(Learning)`   Mathematica, Python, HTML  
+             `(Learning)`   Mathematica, Python, HTML, JavaScript, CSS  
 *Environment:*  Windows, Apple OS, Linux
 
 
