@@ -67,13 +67,19 @@
 
 ### Contact:
 ![](https://dwa5x7aod66zk.cloudfront.net/assets/labtocat-0bb6a395e2d142d0713e3e34bff9f446.png)  
-Baihan Lin  
-*Emails:*   `(Work)` doerlbh@gmail.com   
-            `(Edu)`  sunnylin@uw.edu   
-*Skills:*   `(Proficient)` Java, MATLAB   
-            `(Familiar)`   Perl, C/C++, R, terminal cmd  
-             `(Learning)`   Mathematica, Python, HTML, JavaScript, CSS  
-*Environment:*  Windows, Apple OS, Linux
+**Baihan Lin**  
+University of Washington
+  
+***Emails:***   
+* `(Work)` doerlbh@gmail.com,  
+* `(Edu)`  sunnylin@uw.edu   
+
+***Skills:***
+* `(Proficient)` Java, MATLAB   
+* `(Familiar)`   Perl, C/C++, R, terminal cmd  
+* `(Learning)`   Mathematica, Python, HTML, JavaScript, CSS  
+
+***Environment:***  Windows, Apple OS, Linux
 
 
 
