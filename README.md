@@ -36,6 +36,7 @@
   - Network_Analysis `(original)` `-MATLAB / R / Cytoscape-`
   - nextflu `(modify)` `-Python-` (from blab, investigate how it work)
   - Redo_NuRsE `(modify)` `-MATLAB-` (from jianxigao, learn the methodology)
+  - Energy_plot `(original)` `-MATLAB-`
   
 * Old  
   - Hospital_Management `(original)` `-C-`
@@ -51,6 +52,13 @@
 * Roadmap `(original)`  
 * SimplifiedSocial `(original)`
 * iOSQuickTracker `(original)`
+* FileReminder `(original)`
+
+### Web:
+* doerlbh.github.io (http://doerlbh.github.io/) `(original)`  `-HTML / JavaScript / CSS-`
+* blog (http://doerlbh.github.io/blog) `(modify + original)`  `-HTML / JavaScript / CSS / PHP -`
+* Web_UW (http://students.washington.edu/sunnylin/) `(original)`  `-HTML / JavaScript / CSS / PHP -`
+* Web_self (http://www.doerlbh.com) `(original)`  `-HTML / JavaScript / CSS / PHP -`
 
 ### Learn:
 * GitHub - gotgithub `(forked)`
@@ -60,7 +68,6 @@
 
 ### Life:
 * ElseBand `(original)` [FB_page](https://www.facebook.com/elseband) [Youtube](www.youtube.com/user/elsemusicband)
-* doerlbh.github.io `(original)`  `-HTML / JavaScript / CSS-`
 * Life-Time-Tracker `(clone)` (forked from zhangmhao)
 
 ***
@@ -77,7 +84,7 @@ University of Washington
 ***Skills:***
 * `(Proficient)` Java, MATLAB   
 * `(Familiar)`   Perl, C/C++, R, terminal cmd  
-* `(Learning)`   Mathematica, Python, HTML, JavaScript, CSS  
+* `(Learning)`   Mathematica, Python, HTML, JavaScript, CSS, PHP 
 
 ***Environment:***  Windows, Apple OS, Linux
 
