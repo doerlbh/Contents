@@ -56,8 +56,9 @@
 
 ### Web:
 * doerlbh.github.io (<http://doerlbh.github.io/>) `(original)`  `-HTML / JavaScript / CSS-`
-* doerblog.github.io (<http://doerlbh.github.io/blog>) `(modify + original)`  `-HTML / JavaScript / CSS / PHP -`
-* Web_UW (<http://students.washington.edu/sunnylin/>) `(original)`  `-HTML / JavaScript / CSS / PHP -`
+* doerblog.github.io (<http://doerblog.github.io>) `(modify + original)`  `-HTML / JavaScript / CSS / PHP-`
+* doercalendar.github.io (<http://doerblog.github.io>) `(original)`  `-HTML-`
+* Web_UW (<http://students.washington.edu/sunnylin/>) `(original)`  `-HTML / JavaScript / CSS / PHP-`
 * Web_self (<http://www.doerlbh.com>) `(original)`  `-HTML / JavaScript / CSS / PHP -`
 
 ### Learn:
