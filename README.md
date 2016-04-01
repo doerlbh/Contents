@@ -42,7 +42,7 @@
   - Hospital_Management `(original)` `-C-`
 
 ### Engineering:
-* 3DPrint <https://github.com/doer3Dprint>
+* 3DPrint (<https://github.com/doer3Dprint>)
   - BigBlue3DPrinter `(modify)` `-C-` (from Marlin Firmware, modified to fit UW Big Blue)
   - Octoprint `(modify)` `-JavaScript-` (from fossel, modified to enable wifi printing in UW Big Blue)
   - Smoothieware `(modify)` `-C++-` (from Smoothieware, modified to fit UW Big Blue)
