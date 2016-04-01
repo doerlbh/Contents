@@ -42,7 +42,7 @@
   - Hospital_Management `(original)` `-C-`
 
 ### Engineering:
-* 3DPrint
+* 3DPrint <https://github.com/doer3Dprint>
   - BigBlue3DPrinter `(modify)` `-C-` (from Marlin Firmware, modified to fit UW Big Blue)
   - Octoprint `(modify)` `-JavaScript-` (from fossel, modified to enable wifi printing in UW Big Blue)
   - Smoothieware `(modify)` `-C++-` (from Smoothieware, modified to fit UW Big Blue)
@@ -69,6 +69,7 @@
 
 ### Life:
 * ElseBand `(original)` [FB_page](https://www.facebook.com/elseband) [Youtube](www.youtube.com/user/elsemusicband)
+* WhateverBand
 * Life-Time-Tracker `(clone)` (forked from zhangmhao)
 
 ***
