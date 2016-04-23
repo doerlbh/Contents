@@ -7,23 +7,23 @@
 ### Research:
 
 * BakerLab (<https://www.bakerlab.org/>)   
-  - bp_solver `(original)` `-Java-`
-  - bp_creator `(original)` `-Java-` 
-  - bp_wc2dm `(original)` `-Java-`
-  - ABEGO_solver `(original)` `-Java-`
-  - scripts `(original)`  `-term cmd-`
+  - (2015 Dec) bp_wc2dm `(original)` `-Java-`
+  - (2015 Nov) bp_solver `(original)` `-Java-`
+  - (2015 Nov) bp_creator `(original)` `-Java-` 
+  - (2015 Oct) ABEGO_solver `(original)` `-Java-`
+  - (2015-2016) scripts `(original)`  `-term cmd-`
 
 * OlavarriaLab  
-  - Patch_Processor1.0 `(original)` `-Java-`
+  - (Apr 2016) IntanEphys `(original)` `-MATLAB-`
+  - (Apr 2014) Patch_Processor1.0 `(original)` `-Java-`
   - Patch_Processor2.0 `(original)` + `(ImageJ)` `-Java-` 
   - Analysis `(original)` `-Java-`
-  - IntanEphys `(original)` `-MATLAB-`
   
 * TengLab  
-  - Matrix_solver `(original)`  `-Java-`
-  - Influenza_Model `(original)` `-MATLAB-`
-  - Ebola_Model `(original)` `-MATLAB-`
-  - PCA `(original)` `-R-`
+  - (Aug 2014) Matrix_solver `(original)`  `-Java-`
+  - (Jul 2014) Influenza_Model `(original)` `-MATLAB-`
+  - (Mar 2014) Ebola_Model `(original)` `-MATLAB-`
+  - (Dec 2014) PCA `(original)` `-R-`
   - scripts `(original)`  `-term cmd-`
   
 * BGI (<http://www.genomics.cn>)
@@ -41,6 +41,7 @@
   
 * Old  
   - Hospital_Management `(original)` `-C-`
+  - Hoffman_Coding `(original)` `-Java-`
 
 ### Engineering:
 * 3DPrint (<https://github.com/doer3Dprint>)
