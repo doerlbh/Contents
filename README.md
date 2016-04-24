@@ -15,8 +15,8 @@
 
 * OlavarriaLab  
   - (2016 Apr) IntanEphys `(original)` `-MATLAB-` [repo](https://github.com/doerlbh/OLab_IntanEphys)
-  - (2014 May) Patch_Processor2.0 `(original)` + `(ImageJ)` `-Java-` [repo](https://github.com/doerlbh/OLab_patch_processor_2.0)
-  - (2014 May) Patch_Processor1.0 `(original)` `-Java-` [repo](https://github.com/doerlbh/OLab_patch_processor_1.0)
+  - (2014 May) Patch_Processor_2.0 `(original)` + `(ImageJ)` `-Java-` [repo](https://github.com/doerlbh/OLab_patch_processor_2.0)
+  - (2014 May) Patch_Processor_1.0 `(original)` `-Java-` [repo](https://github.com/doerlbh/OLab_patch_processor_1.0)
   - (2014 May) Analysis `(original)` `-Java-` [repo](https://github.com/doerlbh/OLab_analysis)
   
 * TengLab  
