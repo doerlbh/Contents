@@ -27,8 +27,8 @@
   - (2014-2016) scripts `(original)`  `-term cmd-`
   
 * BGI (<http://www.genomics.cn>)
-  - (2013 Sep) long_stat `(original)`  `-Perl-` [repo]()
-  - (2013 Aug) Short_stat `(original)`  `-Perl-` [repo]()
+  - (2013 Sep) Autism_Genomics_QC_report_adapter `(modify)`  `-Perl-` [repo](https://github.com/doerlbh/BGI_Autism_Genomics_QC_report_adapter)
+  - (2013 Aug) Autism_Genomics_QC_NACTG_stat `(original)`  `-Perl-` [repo](https://github.com/doerlbh/BGI_Autism_Genomics_QC_NACTG_stat)
   - (2013 Jul) scripts `(original)`  `-term cmd-`
   
 * Indie  
@@ -46,10 +46,10 @@
 
 ### Engineering:
 * 3DPrint (<https://github.com/doer3Dprint>)
-  - (2016 Mar) BigBlue3DPrinter `(modify)` `-C-` (from Marlin Firmware, modified to fit UW Big Blue) [repo]()
-  - (2016 Feb) Octoprint `(modify)` `-JavaScript-` (from fossel, modified to enable wifi printing in UW Big Blue) [repo]()
-  - (2016 Feb) Smoothieware `(modify)` `-C++-` (from Smoothieware, modified to fit UW Big Blue) [repo]()
-  - (2016 Feb) MarlinForKilo `(modify)` `-C-` (from pomeroyb, to learn which parameters to change) [repo]()
+  - (2016 Mar) BigBlue3DPrinter `(modify)` `-C-` (from Marlin Firmware, modified to fit UW Big Blue) [repo](https://github.com/doer3Dprint/BigBlue3DPrinter)
+  - (2016 Feb) Octoprint `(modify)` `-JavaScript-` (from fossel, modified to enable wifi printing in UW Big Blue) [repo](https://github.com/doer3Dprint/3DPrint_OctoPrint)
+  - (2016 Feb) Smoothieware `(modify)` `-C++-` (from Smoothieware, modified to fit UW Big Blue) [repo](https://github.com/doer3Dprint/3DPrint_Smoothieware)
+  - (2016 Feb) MarlinForKilo `(modify)` `-C-` (from pomeroyb, to learn which parameters to change) [repo](https://github.com/doer3Dprint/3DPrint_MarlinForKilo)
 
 ### Idea: 
 * Roadmap `(original)`  
@@ -58,11 +58,12 @@
 * File_Reminder `(original)`
 
 ### Web:
-* (2016 Feb) doerlbh.github.io (<http://doerlbh.github.io/>) `(original)`  `-HTML / JavaScript / CSS-` [repo]()
-* (2016 Feb) doerblog.github.io (<http://doerblog.github.io>) `(modify + original)`  `-HTML / JavaScript / CSS / PHP-` [repo]()
-* (2016 Mar) doercalendar.github.io (<http://doerblog.github.io>) `(original)`  `-HTML-` [repo]()
-* (2016 Feb) Web_UW (<http://students.washington.edu/sunnylin/>) `(original)`  `-HTML / JavaScript / CSS / PHP-` [repo]()
-* (2016 Feb) Web_self (<http://www.doerlbh.com>) `(original)`  `-HTML / JavaScript / CSS / PHP -` [repo]()
+* (2016 Feb) doerlbh.github.io (<http://doerlbh.github.io/>) `(original)`  `-HTML / JavaScript / CSS-` [repo](https://github.com/doerlbh/doerlbh.github.io)
+* (2016 Feb) doerblog.github.io (<http://doerblog.github.io>) `(modify + original)`  `-HTML / JavaScript / CSS / PHP-` [repo](https://github.com/doerblog/doerblog.github.io)
+* (2016 Mar) doercalendar.github.io (<http://doerblog.github.io>) `(original)`  `-HTML-` [repo](https://github.com/doercalendar/doercalendar.github.io)
+* (2016 Mar) doerbeta.github.io (<http://doerbeta.github.io>) `(original)`  `-HTML-` [repo](https://github.com/doerbeta/doerbeta.github.io)
+* (2016 Feb) Web_UW (<http://students.washington.edu/sunnylin/>) `(original)`  `-HTML / JavaScript / CSS / PHP-` 
+* (2016 Feb) Web_self (<http://www.doerlbh.com>) `(original)`  `-HTML / JavaScript / CSS / PHP -` 
 
 ### Learn:
 * GitHub - gotgithub `(forked)`
