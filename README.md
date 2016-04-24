@@ -6,27 +6,27 @@
 
 ### Research:
 
-* BakerLab (<https://www.bakerlab.org/>)   
+* BakerLab (UW Biochem, Institute for Protein Design) <https://www.bakerlab.org/>   
   - (2015 Dec) bp_wc2dm `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_bp_wc2dm)
   - (2015 Nov) bp_solver `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_bp_solver)
   - (2015 Nov) bp_creator `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_bp_creator)
   - (2015 Oct) ABEGO_solver `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_ABEGO_solver)
   - (2015-2016) scripts `(original)`  `-term cmd-` [repo](https://github.com/doerlbh/BakerLab_cmd_scripts)
 
-* OlavarriaLab  
+* OlavarriaLab (UW Psych, Computational Neuroscience Program)
   - (2016 Apr) IntanEphys `(original)` `-MATLAB-` [repo](https://github.com/doerlbh/OLab_IntanEphys)
   - (2014 May) Patch_Processor_2.0 `(original)` + `(ImageJ)` `-Java-` [repo](https://github.com/doerlbh/OLab_patch_processor_2.0)
   - (2014 May) Patch_Processor_1.0 `(original)` `-Java-` [repo](https://github.com/doerlbh/OLab_patch_processor_1.0)
   - (2014 May) Analysis `(original)` `-Java-` [repo](https://github.com/doerlbh/OLab_analysis)
   
-* TengLab  
+* TengLab  (BIME, Virology & System Biology) 
   - (2016 Apr) Ebola_GUI_SL `(original)` `-MATLAB-` [repo](https://github.com/doerlbh/TengLab_Ebola_GUI_SL)
   - (2014 Aug) Matrix_solver `(original)`  `-Java-` [repo](https://github.com/doerlbh/TengLab_Matrix_Solver)
   - (2014 Jul) Influenza_Model `(original)` `-MATLAB-` 
   - (2014 Dec) PCA `(original)` `-R-`
   - (2014-2016) scripts `(original)`  `-term cmd-`
   
-* BGI (<http://www.genomics.cn>)
+* BGI (Genomics, Human Health Application Lab) <http://www.genomics.cn>
   - (2013 Sep) Autism_Genomics_QC_report_adapter `(modify)`  `-Perl-` [repo](https://github.com/doerlbh/BGI_Autism_Genomics_QC_report_adapter)
   - (2013 Aug) Autism_Genomics_QC_NACTG_stat `(original)`  `-Perl-` [repo](https://github.com/doerlbh/BGI_Autism_Genomics_QC_NACTG_stat)
   - (2013 Jul) scripts `(original)`  `-term cmd-`
@@ -45,7 +45,7 @@
   - (2011 Jul) Hospital_Management `(original)` `-C-` 
 
 ### Engineering:
-* 3DPrint (<https://github.com/doer3Dprint>)
+* 3DPrint (UW WOOF3D 3D printing club) <https://github.com/doer3Dprint>
   - (2016 Mar) BigBlue3DPrinter `(modify)` `-C-` (from Marlin Firmware, modified to fit UW Big Blue) [repo](https://github.com/doer3Dprint/BigBlue3DPrinter)
   - (2016 Feb) Octoprint `(modify)` `-JavaScript-` (from fossel, modified to enable wifi printing in UW Big Blue) [repo](https://github.com/doer3Dprint/3DPrint_OctoPrint)
   - (2016 Feb) Smoothieware `(modify)` `-C++-` (from Smoothieware, modified to fit UW Big Blue) [repo](https://github.com/doer3Dprint/3DPrint_Smoothieware)
