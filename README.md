@@ -11,7 +11,7 @@
   - (2015 Dec) bp_wc2dm `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_bp_wc2dm)
   - (2015 Nov) bp_solver `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_bp_solver)
   - (2015 Nov) bp_creator `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_bp_creator)
-  - (2015 Oct) ABEGO_solver `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_ABEGO_solver)
+  - (2015 Oct) ABEGO_solver `(original)` `-Java / Perl-` [repo](https://github.com/doerlbh/BakerLab_ABEGO_solver)
   - (2015-2016) scripts `(original)`  `-term cmd-` [repo](https://github.com/doerlbh/BakerLab_cmd_scripts)   
   
      
