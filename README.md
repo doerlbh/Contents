@@ -38,6 +38,11 @@
   - (2013 Aug) Autism_Genomics_QC_NACTG_stat `(original)`  `-Perl-` [repo](https://github.com/doerlbh/BGI_Autism_Genomics_QC_NACTG_stat)
   - (2013 Jul) scripts `(original)`  `-term cmd-`  
   
+    
+* Comp Neuro  
+  - (2014 Feb) 	Neuronal_RC_HH_Model `(original)`	 `-MATLAB-` [repo](https://github.com/doerlbh/CompNeuro_Neuronal_RC_HH_Model)
+  - (2014 Jan) 	Neuron_Tuning_Curve	`(original)` 	`-MATLAB-`	[repo](https://github.com/doerlbh/CompNeuro_Neuron_Tuning_Curve)
+
      
 * Indie  
   - (2016 Apr) Energy_plot `(original)` `-MATLAB-` 
@@ -97,6 +102,7 @@
 ### Contact:
 ![](https://dwa5x7aod66zk.cloudfront.net/assets/labtocat-0bb6a395e2d142d0713e3e34bff9f446.png)  
 **Baihan Lin**  
+Computational Neuroscience Program  
 University of Washington
   
 ***Emails:***   
