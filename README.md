@@ -2,8 +2,17 @@
 # **Contents**   
 > ### _(a partial summary of Baihan Lin's coding projects)_
 
-***
+***  
 
+### About me
+* Baihan Lin (林柏翰)  
+* University of Washington, Seattle
+* Computational Neuroscience Program  
+  - Department of Applied Mathematics  (B.S. in ACMS)  
+  - Department of Physics  (B.S. in Biophysics)  
+  - Department of Psychology  (B.A. in Psychology)  
+  
+  
 ### Research:
 
 * BakerLab  
@@ -25,7 +34,7 @@
      
 * TengLab  
   `BIME, Virology & Systems Biology` 
-  - (2016 Apr) Ebola_GUI_SL `(original)` `-MATLAB-` [repo](https://github.com/doerlbh/TengLab_Ebola_GUI_SL)
+  - (2016 Apr) Ebola_GUI_SL `(original)` `-MATLAB / R-` [repo](https://github.com/doerlbh/TengLab_Ebola_GUI_SL)
   - (2014 Aug) Matrix_solver `(original)`  `-Java-` [repo](https://github.com/doerlbh/TengLab_Matrix_Solver)
   - (2014 Jul) Influenza_Model `(original)` `-MATLAB-` 
   - (2014 Dec) PCA `(original)` `-R-`
