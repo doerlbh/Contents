@@ -15,7 +15,7 @@
   
 ### Research:
 
-* BakerLab  
+* Baker Lab  
   `UW Biochem, Institute for Protein Design` <https://www.bakerlab.org/>   
   - (2015 Dec) bp_wc2dm `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_bp_wc2dm)
   - (2015 Nov) bp_solver `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_bp_solver)
@@ -24,7 +24,7 @@
   - (2015-2016) scripts `(original)`  `-term cmd-` [repo](https://github.com/doerlbh/BakerLab_cmd_scripts)   
   
      
-* OlavarriaLab  
+* Olavarria Lab  
   `UW Psych, Computational Neuroscience Program`
   - (2016 Apr) IntanEphys `(original)` `-MATLAB-` [repo](https://github.com/doerlbh/OLab_IntanEphys)
   - (2014 May) Patch_Processor_2.0 `(original)` + `(ImageJ)` `-Java-` [repo](https://github.com/doerlbh/OLab_patch_processor_2.0)
@@ -32,7 +32,7 @@
   - (2014 May) Analysis `(original)` `-Java-` [repo](https://github.com/doerlbh/OLab_analysis)   
   
      
-* TengLab  
+* Teng Lab  
   `BIME, Virology & Systems Biology` 
   - (2016 Apr) Ebola_GUI_SL `(original)` `-MATLAB / R-` [repo](https://github.com/doerlbh/TengLab_Ebola_GUI_SL)
   - (2014 Aug) Matrix_solver `(original)`  `-Java-` [repo](https://github.com/doerlbh/TengLab_Matrix_Solver)
