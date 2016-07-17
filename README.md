@@ -21,7 +21,7 @@
   - (2015 Nov) bp_solver `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_bp_solver)
   - (2015 Nov) bp_creator `(original)` `-Java-` [repo](https://github.com/doerlbh/BakerLab_bp_creator)
   - (2015 Oct) ABEGO_solver `(original)` `-Java / Perl-` [repo](https://github.com/doerlbh/BakerLab_ABEGO_solver)
-  - (2015-2016) scripts `(original)`  `-term cmd-` [repo](https://github.com/doerlbh/BakerLab_cmd_scripts)   
+  - (2015-2016) scripts `(original)`  `-Unix cmd / Python-` [repo](https://github.com/doerlbh/BakerLab_cmd_scripts)   
   
      
 * Olavarria Lab  
@@ -38,7 +38,12 @@
   - (2014 Aug) Matrix_solver `(original)`  `-Java-` [repo](https://github.com/doerlbh/TengLab_Matrix_Solver)
   - (2014 Jul) Influenza_Model `(original)` `-MATLAB-` 
   - (2014 Dec) PCA `(original)` `-R-`
-  - (2014-2016) scripts `(original)`  `-term cmd-`    
+  
+     
+* Qian Lab / Huang Lab  
+  `UW Amath, Institute for Systems Biology` 
+  - (2016 July) GRN `(original)` `-R-` [repo](https://github.com/doerlbh/ISB_GRN)
+  - (2016 July) SPADE_stochastics `(modify)`  `-MATLAB-` [repo](https://github.com/doerlbh/QianLab_SPADE_stochastics)
   
      
 * BGI  
