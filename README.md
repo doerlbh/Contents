@@ -125,7 +125,7 @@ University of Washington
 
 ***Skills:***
 * `(Proficient)` Java, MATLAB   
-* `(Familiar)`   Perl, C/C++, R, terminal cmd  
+* `(Familiar)`   Perl, C/C++, R, Unix cmd, Python 
 * `(Learning)`   Mathematica, Python, HTML, JavaScript, CSS, PHP 
 
 ***Environment:***  Windows, Apple OS, Linux, BOINC, Hyak
